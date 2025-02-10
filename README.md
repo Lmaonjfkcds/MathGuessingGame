@@ -1,2 +1,3 @@
 # MathGuessingGame
- A basic java game using the swing libraru
+ A basic java game using the swing library
+ 
